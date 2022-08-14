@@ -49,3 +49,5 @@ Here they are:
 A special mention goes to [Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) and [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) which have now been replaced by our own implementation but were foundational to Foam's beginnings.
 
 Lazy green ideas sleep furiously.
+I clearly hear it mutter as it goes
+yet cannot find the wound from which it flows
