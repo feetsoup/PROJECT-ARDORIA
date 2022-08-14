@@ -10,3 +10,9 @@
 - Some notes don't end up making sense the next day
 - That's ok, you can just delete them!
   - You can always find them in your git history, if you really need it!
+
+
+[[Ardoria]][[Metaphysics]][[New World]][[Old World]][[Gods]][[Races]][[Nations]][[Figures]][[Magic]][[Concepts]]
+
+Logan's Stuff
+[[Ba-tu-Hir]][[Sindhe]][[Automatons]][[Hearthlands]][[Mount Fest]][[Narsis]][[Blackened-Brass]][[Womac]][[Ensorcelling]][[Baihu]][[Baihu Empire]][[Families of the Baihu Empire]]
