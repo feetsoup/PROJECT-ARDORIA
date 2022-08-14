@@ -10,7 +10,7 @@ The deity [[Ba-Tu-Hir]] is the god of the flame and earth, who labored, dissatis
 
 They would instead work in the workshops under the Great Mount the Fire-Smith claimed as hearth, Fest. There they kept the industry working in service of their God until the Craftsman brought forth the [[Automatons]].
 
-Tensions arose between the Sindhe and the Kuthek - a caste of Sindhe given control over the Automatons - that eventually led to the exile of the Ash Fae from below [[Mount Fest]]. They fled through the Black Entrance of the forge and soon founded Narsis. Their first Hir (Flame) [[Womac]] rose to power during this tumultuous time. Hir-Womac was a master craftsman, and great leader of the people, truly blessed by Ba-tu-Hir and an Avatar of his will.
+Tensions arose between the Sindhe and the Kuthek - a caste of Sindhe given control over the Automatons - that eventually led to the exile of the Ash Fae from below [[Mount Fest]]. They fled through the Black Entrance of the forge and soon founded [[Narsis]]. Their first Hir (Flame) [[Womac]] rose to power during this tumultuous time. Hir-Womac was a master craftsman, and great leader of the people, truly blessed by Ba-tu-Hir and an Avatar of his will.
 
 As time passed, the world became rife with threats to the Sindhe, Womac ordered the first excursions into the forges. By re-infiltrating abandoned workshops, Womac and others brought Great Crafts to their people. The most notable of which is the art of [[Ensorcelling]], or imbuing and object with magical properties.
 
