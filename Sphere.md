@@ -1,11 +1,11 @@
 # Sphere
 #concept #metaphysics
 
-The material world is composed of refractions of Divine Light. This Light shines through a higher dimension known as the supernal world, where it is reflected through bubble-like spheres and translated into substance. There are many spheres encompassing all organizations of existence - Life, Land, and Wind are examples of easily grasped concepts. More esoteric things, like Destruction, Growth, and Joy are also given form in a way beings of the lower planes struggle to grasp.
+The material world is composed of refractions of [[Divine Light]]. This Light shines through a higher dimension known as the supernal world, where it is reflected through bubble-like spheres and translated into substance. There are many spheres encompassing all organizations of existence - Life, Land, and Wind are examples of easily grasped concepts. More esoteric things, like Destruction, Growth, and Joy are also given form in a way beings of the lower planes struggle to grasp.
 
 Major spheres refract divine light; minor spheres refract light directed at them by the major spheres. For instance, Life feeds smaller domains, such as Flora, or Spiders. Because of this, there is some redundancy in the domains spheres dictate.
 
-The inhabitants of the supernal realm exist within these spheres - these beings are known as gods. When a single god rules a sphere, he is known as a Lord. When many gods control a sphere, they are known as Lordlings. Gods are sustained by the process of converting Light into substance. More accurately, substance is the byproduct of the consumption of Divine Light.
+The inhabitants of the supernal realm exist within these spheres - these beings are known as [[Gods]]. When a single god rules a sphere, he is known as a Lord. When many gods control a sphere, they are known as Lordlings. Gods are sustained by the process of converting Light into substance. More accurately, substance is the byproduct of the consumption of Divine Light.
 
 Gods struggle - both within and between spheres - for a greater share of the Light. The effects of these struggles are felt in the lower realm. For instance, when Destruction is ascendant, war and chaos reign. When Flora is choked of its’ share, flowers wilt as entire swathes of forests wither and die. Paradoxically, the opposite relationship can be observed - The flourishing of Love in the material plane can cause the sphere of Love to do the same. Knowing how this is possible requires an understanding of reality that mortals can only attain in the depths of madness.
 

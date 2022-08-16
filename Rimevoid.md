@@ -1,4 +1,10 @@
 # Rimevoid
 #place
 
-The freezing wastes that served as the cradle of [[Ramtha]] and the early peoples of the [[Dradi]] race.
+The freezing wastes that served as the cradle of [[Ramtha]] and the early peoples of the [[Dradi]] race. Only the hardiest of life survives on the surface of the Rimevoid; the rest spend the majority of their days in the network of twisting passages and chambers below.
+
+The bones of desolated cities and fortresses lie just beneath the rime, leviathans of stone from [[Before]]. Despite centuries of exploration and inhabitation, it is believed only a fraction of these structures are known to modern people. Logic-defying monsters and the degenerate remnant of the [[Antediluvians]] stalk the halls, eager to feed on those that come seeking the legendary riches of the Rimebound Palaces.
+
+## Noteworthy Locations
+ - [[Chalaza]]
+ - [[]]

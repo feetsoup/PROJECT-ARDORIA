@@ -3,5 +3,8 @@
 
 Pronounced kuh-LAY-zuh
 
-A miragelike tower of incomprehensible height deep in the [[Rimevoid]]. Built by [[Ramtha]] and home to [[The Gilded Ring]].
+A miragelike tower of incomprehensible height deep in the [[Rimevoid]]. Ostensibly built by [[Ramtha]] and home to [[The Gilded Ring]].
 Sits on a [[Leyline]], said to be a bridge to the [[Supernal Realm]].
+
+Variations:
+ - The tower is all that remains of the vessel that brought the [[Antediluvians]] to Ardoria. The Gilded Ring closely guard this secret, and plan to restore the vessel in case the worst should come to pass.
