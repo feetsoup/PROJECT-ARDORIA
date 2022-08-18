@@ -4,21 +4,22 @@
 - [Magic](#magic)
   - [Sorcery](#sorcery)
   - [Thaumaturgy](#thaumaturgy)
-  - [Unified Magic](#unified-magic)
+  - [Archmagic](#archmagic)
 
-Magic is the mortal art of utilizing [[Divine Light]] to change the material world. It is grouped into two broad categories depending on the source Light, [[Sorcery]] and [[Thaumaturgy]]. An origin for Magic exists in every myth, and it is reasonable to assume any long-lasting group has discovered a form of one or the other in their history.
+Magic is the mortal art of utilizing [[Divine Light]] to change the material world. It is grouped into two broad categories depending on the source Light, Sorcery and Thaumaturgy. An origin for Magic exists in every myth, and it is reasonable to assume any long-lasting group has discovered a form of one or the other in their history.
 
 ## Sorcery
 Knowledge, Memory, Mastery, Detachment
 
 Certain concepts are 'shot through' with Light on their journey to the lower plane. Gods can do this intentionally, but it is not unheard of for this to happen incidentally during their twisting travel through the [[Supernal Realm]]. With proper knowledge, a mortal can tap into this power to create magic. Magic created in this fashion is called Sorcery.
 
-The most widespread form of sorcery is worked through [[Blacktongue]]. With Blacktongue, sorcery is worked through merely speaking the words, fiendishly difficult though the language may be. Certain languages and actions are obvious candidates for Sorcery. Gods are known to suffuse their favored types of materials, flora, fauna, and shapes as well. Working with these could require any number of esoteric proccesses, but most often involves the formation of [[Arrays]].
+The most widespread form of sorcery is worked through [[Blacktongue]]. With Blacktongue, sorcery is worked through merely speaking the words, fiendishly difficult though the language may be. Certain languages and actions are obvious candidates for Sorcery. Gods are known to suffuse their favored types of materials, flora, fauna, and shapes as well. Working with these could require any number of esoteric proccesses, but most often involves the formation of [[Array]]s.
 
 In truth, all concepts are infused with at least a tiny amount of Divine Light. Any action or substance can be made to perform beyond what its physical conditions would bely, with proper knowledge. [[Ensorcelling]] is perhaps the most sophisticated sorcery to utilize this principle - the craftsmen of the Sindhe can tap into the Light of any object, given time.
 
 Black Sorcery
-???
+Also known as Vulgar Sorcery, Black Sorcery applies its' means to the physical aspects of the world. 
+
 White Sorcery
 ???
 
@@ -38,19 +39,22 @@ Low Thaumaturgy is useful and known for crude but powerful effects, such as:
 High Thaumaturgy involves the relocation of Ess. The substance of Ess cannot be altered, but it can be moved about within or between vessels. High Thaumaturgy has been responsible for some of the most selfless, and most depraved, acts commited with magic. Some loot Ess mercilessly from without, grafting it to themselves. Others give pieces of themself to mend what has been broken. Others still merely move Ess into new formations, provoking foundational changes in a things' qualities.
 
 High Thaumaturgy is capable of inimitable spirit manipulation.
- - Without to Within (Vampirism, communion)
+ - Without to Within ([[Vampirism]], communion)
  - Within to Without (Self-Sacrifice, miracles)
  - Formation (Self-Improvement, enlightenment)
  - Reconfiguration (Polymorphy, karmic healing)
 
 Because all things contain Ess, Thaumaturgy is technically capable of affecting all concepts. In practice, this is far easier to achieve with a relevant Sorcery, and as such largely unexplored.
 
-## Unified Magic
+## Archmagic
 
-A perceptive student might notice that the nature of Divine Light means that it is hard to draw lines between where the categories of Magic begin and end. While helpful, most Magic is at least some mix of Sorcery, Thaumaturgy, High and Low. What a category Magic is capable of and how it is practiced is merely a suggestion.
+Most magic-wielders will realize in some point of their studies that, theoretically, any of the schools of magic can be made to emulate another. A few of those will go on to put such this principle into action, and develop their own form of Archmagic.
+
+Archmagic scoffs at the concept of 'schools', instead recognizing all classification to be suggestions for amateurs reinforced by tradition. it uses techniques from Sorcery and Thaumaturgy as it pleases, often both forms of each in a single spell. Beyond this, there is no unified concept of Archmagic - each instance of it is a highly personal art built from years of study and experimentation.
 
 Spells are considered black, white, low, or high for purposes of classification. None of these are mutually exclusive but a greater number of classes often means more complex, and tricky to complete.
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [Blacktongue]: Blacktongue "Blacktongue"
+[Vampirism]: Vampirism "Vampirism"
 [//end]: # "Autogenerated link references"
