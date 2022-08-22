@@ -2,16 +2,26 @@
 #magic #thaumaturgy
 - [Vampirism](#vampirism)
   - [Costs and Benefits](#costs-and-benefits)
+  - [Living Spells](#living-spells)
   - [Societal Views](#societal-views)
 
-No magic is more reviled or feared than Vampirism. With this High Thaumaturgy, a thaumaturge captures the Ess of a dying creature and grafts it to their own, vastly expanding their capacity for thaumaturgy at terrible cost to their spiritual and mental integrity. An affront to the natural order, most mortals recognize the abhorrence of such an act inherently.
+No magic is more reviled or feared than Vampirism. With this High Thaumaturgy, a thaumaturge captures the [[Ess]] of a dying creature and grafts it to their own, vastly expanding their capacity for thaumaturgy at terrible cost to their spiritual and mental integrity. An affront to the natural order, most mortals recognize the abhorrence of such an act inherently.
 
 ## Costs and Benefits
-The costs of Vampirism are great. Even the most sophisticated of Ess grafting changes one deeply, each addition the thaumaturge makes causing them to slide further towards an incoherence and neurosis. Working so directly with Divine Light gives one an acute sense for it, as well as a terrifying hunger. Vampirists hunt one another ruthlessly, seeking to loot one another of their stolen hordes of Ess.
+The costs of Vampirism are great. Even the most sophisticated of Ess grafting changes one deeply, each addition the thaumaturge makes causing them to slide further towards an incoherence and neurosis. Working so directly with Divine Light gives one an acute sense for it, as well as a terrifying hunger. Vampirists hunt one another ruthlessly, seeking to loot eachother of their stolen hordes of Ess.
 
-The cost, to some, is trivial compared to a power beyond conception. Many of the most powerful magic-wielders to ever exist owe their power in whole or part to Vampirism. 
+The cost, to some, is trivial compared to a power beyond conception. Many of the most powerful magic-wielders to ever exist owe their strength in whole or part to Vampirism. The signature ability of Vampirism are the Living Spells, named such because they are each entertwined with a creature's Ess. Such Magic opens the path to immortality, albeit a crude and grim imitation of it.
+
+## Living Spells
+The Ess of other creatures aids in all thaumaturgic pursuits, although it is most prized for its pivotal role in creating Living Spells. these are spells written into the very fabric of captured Ess, turning its will towards a singular purpose. These Living Spells can be used to take over many of the functions of their host. The first many Vampirists will craft is a Living Barrier, vigilant at all times and capable of casting off magical and mundane attacks. As they progress, many tasks will be delegated to encoded Ess - spells to hunt and kill. Spells to do technical thinking. Spells to heal and sustain their physical form. Spells to sense danger, and make the body move in response. At a point, it requires a greater exertion of mental effort for a Vampirist to reign in these automated impulses than it does for them to do nothing at all.
+
+Experienced Vampirists will have so many layers of Living Spells that it becomes hard to distinguish whether an action is conciously taken or automatic response. Over the course of decades, the Ess of the original creature - their Core - relinquishes all control, becoming a mediator for their hundreds of independent constructs. The Vampirist's Core is so transformed by this process that it becomes unable to fulfill its original purpose - their body dies and begins to rot away, and still their Spells puppet them about in an unnatural unlife. These Liches, as they are known, are machines built from the unwilling that have usurped the identity of their creator. With no purpose but an absent ego's mad ambitions, it harvests Ess with a ruthless efficiency unclouded by conscience.
 
 ## Societal Views
 No group claims to be the first to practice Vampirism, although academicians generally understand it to be the [[Alaktu]]. Only the most depraved, desperate, or delusional seek to learn this art, and thus join the battle for survival. Vampirists exist in small pockets wherever corruption or disorder allows them to. Many of them live in the [[Scarred Plains]], or will visit there once in their lives.
 
-An interesting story in defiance of this can be seen in the myths of many peoples. The tale commonly speaks of a warrior or warriors of a land threatened by a foreign foe. This warrior/group takes part in Vampirism, but resist its' temptations, thus exonerating their sin. The tale ends with them swearing to never leave the foreign land, or ending their lives in some fasion. The [[Order of the Demon Hunters]] are thought to be the living embodiment of this tale - and perhaps even the inspiration for it.
+An interesting story in defiance of this can be seen in the myths of many peoples. The tale commonly speaks of a warrior or warriors of a land threatened by a foreign foe. This warrior/group takes part in Vampirism, but resist its' temptations, thus exonerating their sin. The tale ends with them taking an oath to dwell forever within the cursed foreign land, or ending their lives in some fasion. The [[Order of the Demon Hunters]] are thought to be the living embodiment of this tale - and perhaps even the inspiration for it.
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[Order of the Demon Hunters]: <Order of the Demon Hunters> "Order of the Demon Hunters"
+[//end]: # "Autogenerated link references"
